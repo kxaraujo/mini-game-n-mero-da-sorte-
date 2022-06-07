@@ -2,7 +2,7 @@
 #include "stdlib.h"
 #include "time.h"
 
-//develop by kARAUJO on repl.it
+//develop by kxaraujo on repl.it
 //input and output command, repetition loops, conditional structures, random numbers
 
 
